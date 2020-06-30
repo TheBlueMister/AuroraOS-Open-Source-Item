@@ -1,5 +1,5 @@
 # AuroraOS-Open-Source-Item
-It's an Emulated-System based on Microsoft PowerPoint
+
 你好，这里是 AuroraOS 开发人员 TheBlueMister。
 我将向您介绍 AuroraOS 的大致内容。
 AuroraOS 是一款基于 Microsoft PowerPoint 开发的仿真系统，
